@@ -1,7 +1,5 @@
 package OOP_FOURTH_PROBLEM_JAVA;
 
-import java.util.ArrayList;
-
 public class Program {
     public static void main(String[] args) {
         Manager m1 = new Manager("Null", "Nullovitch");
